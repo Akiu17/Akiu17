@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Akiu17
 - 👀 I’m interested in NLP and Image Processing
 - 🌱 I’m currently learning Data Science and Big Data Technoloy
-- 📫 How to reach me 2120372353@qq.com  
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Swimmer
 

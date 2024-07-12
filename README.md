@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akiu17
 - 👀 I’m interested in NLP and Image Processing
-- 🌱 I’m currently learning Data Science and Big Data Technoloy
+- 🌱 I’m currently learning Data Science and Big Data Technology
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Swimmer
 
